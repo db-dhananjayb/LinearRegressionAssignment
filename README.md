@@ -49,5 +49,5 @@ Created by [@db-dhananjayb] - feel free to contact me!
 
 
 <!-- ## License -->
-<!-- This project is open source and available under the Apache license. -->
+<!-- This project is open source and not licensed -->
 
